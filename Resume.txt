@@ -4,13 +4,23 @@ Silvan
 atly_style026@gmail.com
 ------------------------
 Skills
+-html, css, python, devops
 -----------------------
+
 Experience
 ---------------------
+
 Education
 --------------------
+-some university - 2004
+
 Volunteer
 -------------------
+-no have
 Award
 -------------------
+No have
+
 Projects
+-library python project
+
