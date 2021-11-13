@@ -9,10 +9,10 @@ Skills
 
 Experience
 ---------------------
-
+-Add your previous experience here please. 
 Education
 --------------------
--some university - 2004
+-some university - 2004 - city/country? - major?
 
 Volunteer
 -------------------
@@ -22,5 +22,5 @@ Award
 No have
 
 Projects
--library python project
+-library management system (python)
 
